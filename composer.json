@@ -29,9 +29,7 @@
     "backendtea/un-poly-php71": "^1.0",
     "backendtea/un-poly-php72": "^1.0",
     "backendtea/un-poly-php73": "^1.0",
-    "backendtea/un-poly-random": "^1.0",
     "backendtea/un-poly-util": "^1.0",
     "backendtea/un-poly-xml": "^1.0"
-
   }
 }
