@@ -1,5 +1,5 @@
 {
-  "name": "backendtea/un-poly-all",
+  "name": "jure-koren/un-poly-all",
   "description": "Removes all polyfills from your project, where possible",
   "keywords": [
     "polyfill",
